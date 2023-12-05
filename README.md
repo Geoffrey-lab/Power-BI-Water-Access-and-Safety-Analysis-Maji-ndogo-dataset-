@@ -4,7 +4,7 @@
 
 This GitHub repository houses a comprehensive Power BI project focused on analyzing water access and safety data in Maji Ndogo. The project explores various aspects, including tap sources, queue dynamics, crime data, and pollution statistics, providing valuable insights for decision-makers and policymakers.
 
-##*click link to view interactive dashboard https://app.powerbi.com/view?r=eyJrIjoiMGI3MmI5YTQtMjI4Yy00Nzk0LTk1NjItMTFjODQ5MTUzY2ZkIiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9&pageName=ReportSection*
+##click link to view interactive dashboard https://app.powerbi.com/view?r=eyJrIjoiMGI3MmI5YTQtMjI4Yy00Nzk0LTk1NjItMTFjODQ5MTUzY2ZkIiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9&pageName=ReportSection
 
 ## Key Findings:
 
